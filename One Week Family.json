@@ -4,5 +4,16 @@
   "artist": "Yatsuhashi",
   "author": "Yatsuhashi",
   "cover": "https://i.imgur.com/a/NdHq3KE",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1695171103",
+      "groups": {
+        "": [
+          "https://imgur.com/gallery/nSOaTll"
+        ]
+      }
+    }
+  }
 }
