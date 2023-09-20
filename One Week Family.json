@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1695171103",
       "groups": {
-        "": "https://i.imgur.com/gallery/nSOaTll"
+        "": [
+          "https://i.imgur.com/gallery/nSOaTll"
+        ]
       }
     }
   }
