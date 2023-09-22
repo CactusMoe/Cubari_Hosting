@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1695215097",
       "groups": {
-        "Volume 1": "https://imgbox.com/g/tq4IJZbS90"
+        "Volume 1": [
+          "https://imgbox.com/g/tq4IJZbS90"
+        ]
       }
     },
     "2": {
