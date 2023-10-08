@@ -1,7 +1,7 @@
 # Cactus's Manga Respository for Official Uploads
 This is my hiding place for hosting the official rip from variety publishers
 
-Hosted on cubari.moe
+Hosted on [cubari.moe](https://cubari.moe), a proxy hosting 
 
 Im also available on bato.to
 
