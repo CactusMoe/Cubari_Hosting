@@ -45,6 +45,14 @@
         "Volume 1": "/proxy/api/imgur/chapter/cxrheGE"
       }
     },
+    "5.5": {
+      "title": "Chapter 5.5",
+      "volume": "1",
+      "last_updated": "1695215782",
+      "groups": {
+        "Volume 1": "/proxy/api/imgur/chapter/QRXjdhT"
+      }
+    },
     "6": {
       "title": "Mr. Unlucky Has No Choice but to Get Romantic!",
       "volume": "1",
@@ -93,6 +101,14 @@
         "Volume 2": "/proxy/api/imgur/chapter/GhfxYtF"
       }
     },
+    "11.5": {
+      "title": "Chapter 11.5",
+      "volume": "2",
+      "last_updated": "1695217053",
+      "groups": {
+        "Volume 2": "/proxy/api/imgur/chapter/lPksN8r"
+      }
+    },
     "12": {
       "title": "Mr. Unlucky Has No Choice but to Prepare Himself!",
       "volume": "2",
@@ -117,36 +133,20 @@
         "Volume 2": "/proxy/api/imgur/chapter/sKUP8IA"
       }
     },
-    "15": {
-      "title": "Mr. Unlucky Has No Choice but to Get Lucky!(Bonus) [END]",
-      "volume": "2",
-      "last_updated": "1695217223",
-      "groups": {
-        "Volume 2": "/proxy/api/imgur/chapter/fXAs8Xl"
-      }
-    },
-    "5.5": {
-      "title": "Chapter 5.5",
-      "volume": "1",
-      "last_updated": "1695215782",
-      "groups": {
-        "Volume 1": "/proxy/api/imgur/chapter/QRXjdhT"
-      }
-    },
-    "11.5": {
-      "title": "Chapter 11.5",
-      "volume": "2",
-      "last_updated": "1695217053",
-      "groups": {
-        "Volume 2": "/proxy/api/imgur/chapter/lPksN8r"
-      }
-    },
     "14.5": {
       "title": "Chapter 8.5",
       "volume": "2",
       "last_updated": "1695217294",
       "groups": {
         "Volume 2": "/proxy/api/imgur/chapter/ZhbWAsc"
+      }
+    },
+    "15": {
+      "title": "Mr. Unlucky Has No Choice but to Get Lucky!(Bonus) [END]",
+      "volume": "2",
+      "last_updated": "1695217223",
+      "groups": {
+        "Volume 2": "/proxy/api/imgur/chapter/fXAs8Xl"
       }
     }
   }
