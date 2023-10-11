@@ -7,6 +7,8 @@ Im also available on bato.to
 
 ⚠ Disclaimer: I may or may not own every single manga that uploaded on cubari or batoto
 
+Current plan: Migrating to another image source due to the current source is not suitable for mature contents
+
 # Batoto profile
 UserID: #1252897
 
